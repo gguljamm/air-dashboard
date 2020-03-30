@@ -1,0 +1,26 @@
+{
+  "name": "travelport-frontend",
+  "version": "1.0.0",
+  "description": "by bringprice",
+  "author": "bringprice",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "spa": "nuxt generate --spa"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "^4.1.3",
+    "bootstrap-vue": "^2.0.0",
+    "nuxt": "^2.0.0",
+    "nuxt-sass-resources-loader": "^2.0.5",
+    "vue-google-charts": "^0.3.2"
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.0",
+    "sass-loader": "^8.0.0"
+  }
+}
