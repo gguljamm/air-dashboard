@@ -89,7 +89,7 @@ sw.*
 # Vim swap files
 *.swp
 
-dist/
+dist
 
 # Editor directories and files
 *.suo
